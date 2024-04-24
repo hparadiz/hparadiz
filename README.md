@@ -12,6 +12,8 @@ I specialize in automation, testing, containerization, authentication, security,
 
 I am the maintainer of the [PHP framework Divergence](https://github.com/Divergence/framework).
 
+Most recently I've immersed myself in TypeScript, Python, and Go.
+
 ---
 ### Primary Desktop
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
