@@ -18,8 +18,8 @@ Most recently I've immersed myself in TypeScript, Python, and Go.
 ### Primary Desktop
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 
-### Primary Laptop
-![MBP 2014](https://img.shields.io/badge/Apple-MacBook_Pro_2014-333333?style=for-the-badge&logo=apple&logoColor=white)
+### Laptop
+![MBA 2023](https://img.shields.io/badge/Apple-MacBook_Air_2023-333333?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Media Center
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
